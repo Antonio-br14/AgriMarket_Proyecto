@@ -1,0 +1,5 @@
+node_modules
+dist
+coverage
+demo.html
+package-lock.json
